@@ -1,4 +1,4 @@
-![](E:\Coding\DataSet\布匹瑕疵检测\EDA\category_distribution.png)
+![image](https://img2022.cnblogs.com/blog/1524748/202201/1524748-20220119172747932-721801931.png)
 
 ## 简介：
 
