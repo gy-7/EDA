@@ -1,4 +1,4 @@
-## 个人博客【一届书生】：
+## 个人博客『gy77』：
 
 - [x] [CSDN博客](https://blog.csdn.net/qq_39435411)
 - [x] [博客园](https://www.cnblogs.com/gy77/)
